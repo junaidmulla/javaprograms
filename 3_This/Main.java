@@ -5,7 +5,7 @@ class Main {
 
         System.out.println("~~~Object pos~~~");
         System.out.println("Row : " + pos.row);
-        System.out.println("Column : " + pos.row);
+        System.out.println("Column : " + pos.column);
 
         Position para = new Position(4, 3);
         // calling parameterized constructor -- initializing object with parameterized
